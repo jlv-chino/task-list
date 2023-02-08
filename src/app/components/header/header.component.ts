@@ -18,7 +18,7 @@ export class HeaderComponent{
   }
 
   toggleAddTask(){
-    
+    console.log("toggleAddTask");
   }
 
 }
