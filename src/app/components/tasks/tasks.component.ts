@@ -9,7 +9,7 @@ import { TASKS } from '../../mock-tasks';
 })
 export class TasksComponent {
   tasks: Task[] = TASKS;
-
+  
 
 
 }
